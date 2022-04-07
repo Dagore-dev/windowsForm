@@ -43,5 +43,15 @@ namespace WinFormsApp1
             Random r = new Random();
             label3.ForeColor = Color.FromArgb(r.Next(256), r.Next(256), r.Next(256));
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("¿Estás seguro de querer salir?", "Pregunta", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (dr == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
