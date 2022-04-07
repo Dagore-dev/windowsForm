@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion1\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll

@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\bin\Debug\net6.0-windows\Hola Mundo.exe
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\bin\Debug\net6.0-windows\Hola Mundo.deps.json
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\bin\Debug\net6.0-windows\Hola Mundo.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\bin\Debug\net6.0-windows\Hola Mundo.dll
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\bin\Debug\net6.0-windows\Hola Mundo.pdb
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola_Mundo.Form1.resources
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.dll
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\refint\Hola Mundo.dll
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.pdb
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\Hola Mundo.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion1\Hola Mundo\Hola Mundo\obj\Debug\net6.0-windows\ref\Hola Mundo.dll

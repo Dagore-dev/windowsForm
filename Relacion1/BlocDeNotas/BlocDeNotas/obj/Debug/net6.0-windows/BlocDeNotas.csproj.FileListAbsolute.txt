@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\bin\Debug\net6.0-windows\BlocDeNotas.exe
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\bin\Debug\net6.0-windows\BlocDeNotas.deps.json
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\bin\Debug\net6.0-windows\BlocDeNotas.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\bin\Debug\net6.0-windows\BlocDeNotas.dll
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\bin\Debug\net6.0-windows\BlocDeNotas.pdb
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.Form1.resources
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.dll
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\refint\BlocDeNotas.dll
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.pdb
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\BlocDeNotas.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion1\BlocDeNotas\BlocDeNotas\obj\Debug\net6.0-windows\ref\BlocDeNotas.dll
