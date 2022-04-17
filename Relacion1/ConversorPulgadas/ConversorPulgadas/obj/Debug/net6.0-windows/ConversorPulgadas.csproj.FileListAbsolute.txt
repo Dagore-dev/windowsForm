@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\bin\Debug\net6.0-windows\ConversorPulgadas.exe
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\bin\Debug\net6.0-windows\ConversorPulgadas.deps.json
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\bin\Debug\net6.0-windows\ConversorPulgadas.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\bin\Debug\net6.0-windows\ConversorPulgadas.dll
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\bin\Debug\net6.0-windows\ConversorPulgadas.pdb
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.Form1.resources
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.dll
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\refint\ConversorPulgadas.dll
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.pdb
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ConversorPulgadas.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion1\ConversorPulgadas\ConversorPulgadas\obj\Debug\net6.0-windows\ref\ConversorPulgadas.dll
