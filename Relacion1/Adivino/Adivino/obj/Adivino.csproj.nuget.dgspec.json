@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositorios\\WindowsForms\\Relacion1\\Adivino\\Adivino\\Adivino.csproj": {}
+    "D:\\Repositorios\\windowsForm\\Relacion1\\Adivino\\Adivino\\Adivino.csproj": {}
   },
   "projects": {
-    "G:\\Repositorios\\WindowsForms\\Relacion1\\Adivino\\Adivino\\Adivino.csproj": {
+    "D:\\Repositorios\\windowsForm\\Relacion1\\Adivino\\Adivino\\Adivino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion1\\Adivino\\Adivino\\Adivino.csproj",
+        "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion1\\Adivino\\Adivino\\Adivino.csproj",
         "projectName": "Adivino",
-        "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion1\\Adivino\\Adivino\\Adivino.csproj",
-        "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion1\\Adivino\\Adivino\\obj\\",
+        "projectPath": "D:\\Repositorios\\windowsForm\\Relacion1\\Adivino\\Adivino\\Adivino.csproj",
+        "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\windowsForm\\Relacion1\\Adivino\\Adivino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

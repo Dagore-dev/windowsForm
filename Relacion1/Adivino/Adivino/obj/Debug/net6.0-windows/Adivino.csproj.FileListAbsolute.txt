@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\bin\Debug\net6.0-windows\Adivino.exe
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\bin\Debug\net6.0-windows\Adivino.deps.json
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\bin\Debug\net6.0-windows\Adivino.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\bin\Debug\net6.0-windows\Adivino.dll
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\bin\Debug\net6.0-windows\Adivino.pdb
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.Form1.resources
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.dll
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\refint\Adivino.dll
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.pdb
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\Adivino.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion1\Adivino\Adivino\obj\Debug\net6.0-windows\ref\Adivino.dll
