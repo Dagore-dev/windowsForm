@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\bin\Debug\net6.0-windows\MiniAgenda.exe
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\bin\Debug\net6.0-windows\MiniAgenda.deps.json
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\bin\Debug\net6.0-windows\MiniAgenda.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\bin\Debug\net6.0-windows\MiniAgenda.dll
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\bin\Debug\net6.0-windows\MiniAgenda.pdb
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.dll
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\refint\MiniAgenda.dll
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.pdb
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\ref\MiniAgenda.dll
+D:\Repositorios\windowsForm\Relacion1\MiniAgenda\MiniAgenda\obj\Debug\net6.0-windows\MiniAgenda.MiniAgenda.resources
