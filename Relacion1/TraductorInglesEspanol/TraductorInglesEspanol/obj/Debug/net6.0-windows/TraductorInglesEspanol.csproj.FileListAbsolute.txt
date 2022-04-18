@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\bin\Debug\net6.0-windows\TraductorInglesEspanol.exe
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\bin\Debug\net6.0-windows\TraductorInglesEspanol.deps.json
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\bin\Debug\net6.0-windows\TraductorInglesEspanol.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\bin\Debug\net6.0-windows\TraductorInglesEspanol.dll
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\bin\Debug\net6.0-windows\TraductorInglesEspanol.pdb
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.Form1.resources
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.dll
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\refint\TraductorInglesEspanol.dll
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.pdb
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\TraductorInglesEspanol.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion1\TraductorInglesEspanol\TraductorInglesEspanol\obj\Debug\net6.0-windows\ref\TraductorInglesEspanol.dll
