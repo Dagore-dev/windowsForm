@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\bin\Debug\net6.0-windows\Cursor.exe
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\bin\Debug\net6.0-windows\Cursor.deps.json
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\bin\Debug\net6.0-windows\Cursor.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\bin\Debug\net6.0-windows\Cursor.dll
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\bin\Debug\net6.0-windows\Cursor.pdb
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.Cursor.resources
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.dll
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\refint\Cursor.dll
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.pdb
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\Cursor.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion1\Cursor\Cursor\obj\Debug\net6.0-windows\ref\Cursor.dll
