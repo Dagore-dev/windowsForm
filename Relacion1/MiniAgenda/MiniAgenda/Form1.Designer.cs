@@ -75,6 +75,7 @@
             this.tableLayoutPanel1.SetRowSpan(this.textBoxTasks, 3);
             this.textBoxTasks.Size = new System.Drawing.Size(458, 420);
             this.textBoxTasks.TabIndex = 0;
+            this.textBoxTasks.TextChanged += new System.EventHandler(this.TextBoxTasks_TextChanged);
             // 
             // btnPrev
             // 

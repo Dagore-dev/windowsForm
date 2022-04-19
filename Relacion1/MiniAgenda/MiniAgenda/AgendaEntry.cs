@@ -24,10 +24,17 @@ namespace MiniAgenda
             get { return text; } 
             set { text = value; }
         }
+        public string Path 
+        { 
+            get
+            {
+                return $"{Date.ToString("ddMMyyyy")}.txt";
+            }
+        }
 
         public void ToFile ()
         {
-            StreamWriter sw = new StreamWriter ($"{Date.ToString("ddMMyyyy")}.txt");
+            StreamWriter sw = new StreamWriter (Path);
 
             foreach (string line in text)
             {
@@ -64,6 +71,22 @@ namespace MiniAgenda
             else
             {
                 throw new Exception($"{path} hasn't a correct format. Try something like: \"02021994.txt\".");
+            }
+        }
+        public static bool TryFromFile (string path, out AgendaEntry agendaEntry)
+        {
+            AgendaEntry entry;
+
+            try
+            {
+                entry = AgendaEntry.FromFile(path);
+                agendaEntry = entry;
+                return true;
+            }
+            catch 
+            {
+                agendaEntry = null;
+                return false;
             }
         }
         private static bool CheckPathFormat (string path)

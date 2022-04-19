@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EstadisticasTexto/1.0.0": {
+        "runtime": {
+          "EstadisticasTexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstadisticasTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\windowsForm\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj": {}
+    "G:\\Repositorios\\WindowsForms\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\windowsForm\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj": {
+    "G:\\Repositorios\\WindowsForms\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj",
+        "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj",
         "projectName": "MiniAgenda",
-        "projectPath": "D:\\Repositorios\\windowsForm\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj",
-        "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\windowsForm\\Relacion1\\MiniAgenda\\MiniAgenda\\obj\\",
+        "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion1\\MiniAgenda\\MiniAgenda\\MiniAgenda.csproj",
+        "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
+        "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion1\\MiniAgenda\\MiniAgenda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

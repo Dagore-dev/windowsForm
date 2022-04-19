@@ -4,6 +4,7 @@ namespace MiniAgenda
     {
         private AgendaController agendaController;
         private string[]? text;
+        private bool textChanged = false;
 
         public MiniAgenda()
         {
@@ -13,20 +14,20 @@ namespace MiniAgenda
 
         private void LoadState ()
         {
+            AgendaEntry entry;
             string path = agendaController.Path;
+            bool ok = AgendaEntry.TryFromFile(path, out entry);
 
-            try
+            if (ok)
             {
-                AgendaEntry agendaEntry = AgendaEntry.FromFile(path);
-                text = agendaEntry.Text;
-
-            } catch 
+                text = entry.Text;
+            }
+            else
             {
                 text = null;
-            } finally
-            {
-                UpdateForm();
             }
+
+            UpdateForm();
         }
         private void UpdateForm ()
         {
@@ -34,13 +35,25 @@ namespace MiniAgenda
             textBoxDay.Text = agendaController.Day.ToString();
             textBoxMonth.Text = agendaController.Month.ToString();
             textBoxYear.Text = agendaController.Year.ToString();
+            textChanged = false;
         }
         private void Save ()
         {
-            if (HaveContent(textBoxTasks.Lines))
+            if (textChanged)
             {
                 AgendaEntry agendaEntry = new AgendaEntry(agendaController.Date, textBoxTasks.Lines);
-                agendaEntry.ToFile();
+
+                if (HaveContent(textBoxTasks.Lines))
+                {
+                    agendaEntry.ToFile();
+                }
+                else
+                {
+                    if (File.Exists(agendaEntry.Path))
+                    {
+                        File.Delete(agendaEntry.Path);
+                    }
+                }
             }
         }
         private bool HaveContent (string[] lines)
@@ -77,6 +90,11 @@ namespace MiniAgenda
             Save();
             agendaController.NextDay();
             LoadState();
+        }
+
+        private void TextBoxTasks_TextChanged(object sender, EventArgs e)
+        {
+            textChanged = true;
         }
     }
 }
