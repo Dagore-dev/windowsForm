@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\bin\Debug\net6.0-windows\MultiConvesor.exe
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\bin\Debug\net6.0-windows\MultiConvesor.deps.json
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\bin\Debug\net6.0-windows\MultiConvesor.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\bin\Debug\net6.0-windows\MultiConvesor.dll
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\bin\Debug\net6.0-windows\MultiConvesor.pdb
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.MultiConversor.resources
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.dll
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\refint\MultiConvesor.dll
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.pdb
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\MultiConvesor.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\MultiConvesor\MultiConvesor\obj\Debug\net6.0-windows\ref\MultiConvesor.dll
