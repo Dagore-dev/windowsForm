@@ -38,12 +38,14 @@ namespace CreaDiccionario
         }
         private void BtnRemove_Click(object sender, EventArgs e)
         {
-            modified = true;
-
             int index = listBoxPairs.SelectedIndex;
-            listBoxPairs.Items.RemoveAt(index);
 
-            btnRemove.Enabled = false;
+            if (index != -1)
+            {
+                listBoxPairs.Items.RemoveAt(index);
+                modified = true;
+                btnRemove.Enabled = false;
+            }
         }
 
         private void ToFile()

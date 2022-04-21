@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\bin\Debug\net6.0-windows\GeneradorDados.exe
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\bin\Debug\net6.0-windows\GeneradorDados.deps.json
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\bin\Debug\net6.0-windows\GeneradorDados.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\bin\Debug\net6.0-windows\GeneradorDados.dll
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\bin\Debug\net6.0-windows\GeneradorDados.pdb
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.dll
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\refint\GeneradorDados.dll
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.pdb
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\ref\GeneradorDados.dll
+G:\Repositorios\WindowsForms\Relacion2\GeneradorDados\GeneradorDados\obj\Debug\net6.0-windows\GeneradorDados.GeneradorDados.resources
