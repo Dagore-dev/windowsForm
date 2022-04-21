@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\bin\Debug\net6.0-windows\CreaDiccionario.exe
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\bin\Debug\net6.0-windows\CreaDiccionario.deps.json
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\bin\Debug\net6.0-windows\CreaDiccionario.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\bin\Debug\net6.0-windows\CreaDiccionario.dll
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\bin\Debug\net6.0-windows\CreaDiccionario.pdb
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.CreaDiccionario.resources
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.dll
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\refint\CreaDiccionario.dll
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.pdb
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\CreaDiccionario.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\CreaDiccionario\CreaDiccionario\obj\Debug\net6.0-windows\ref\CreaDiccionario.dll
