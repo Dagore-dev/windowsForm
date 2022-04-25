@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dagore\\.nuget\\packages\\": {}
+    "C:\\Users\\dagor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion2\\MultiConvesor\\MultiConvesor\\MultiConvesor.csproj",
+      "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion2\\MultiConvesor\\MultiConvesor\\MultiConvesor.csproj",
       "projectName": "MultiConvesor",
-      "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\MultiConvesor\\MultiConvesor\\MultiConvesor.csproj",
-      "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-      "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\MultiConvesor\\MultiConvesor\\obj\\",
+      "projectPath": "D:\\Repositorios\\windowsForm\\Relacion2\\MultiConvesor\\MultiConvesor\\MultiConvesor.csproj",
+      "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositorios\\windowsForm\\Relacion2\\MultiConvesor\\MultiConvesor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
