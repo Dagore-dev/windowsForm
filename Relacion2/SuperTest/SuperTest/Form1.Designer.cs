@@ -90,6 +90,7 @@
             this.labelQuestion.TabIndex = 2;
             this.labelQuestion.Text = "Esperando que pulses el botón emprezar";
             this.labelQuestion.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.labelQuestion.Visible = false;
             // 
             // tableLayoutPanel2
             // 

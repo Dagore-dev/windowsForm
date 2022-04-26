@@ -25,5 +25,9 @@ namespace SuperTest
         {
             get { return opciones[index]; }
         }
+        public Opcion Correcta
+        {
+            get { return opciones.Find(o => o.EsCorrecta); }
+        }
     }
 }

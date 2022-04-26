@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositorios\\WindowsForms\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj": {}
+    "D:\\Repositorios\\windowsForm\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj": {}
   },
   "projects": {
-    "G:\\Repositorios\\WindowsForms\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj": {
+    "D:\\Repositorios\\windowsForm\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj",
+        "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj",
         "projectName": "SuperTest",
-        "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj",
-        "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\SuperTest\\SuperTest\\obj\\",
+        "projectPath": "D:\\Repositorios\\windowsForm\\Relacion2\\SuperTest\\SuperTest\\SuperTest.csproj",
+        "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\windowsForm\\Relacion2\\SuperTest\\SuperTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
