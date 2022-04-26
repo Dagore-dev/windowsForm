@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\bin\Debug\net6.0-windows\GeneradorTitulosPeliculas.exe
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\bin\Debug\net6.0-windows\GeneradorTitulosPeliculas.deps.json
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\bin\Debug\net6.0-windows\GeneradorTitulosPeliculas.runtimeconfig.json
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\bin\Debug\net6.0-windows\GeneradorTitulosPeliculas.dll
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\bin\Debug\net6.0-windows\GeneradorTitulosPeliculas.pdb
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.GeneradorTitulosPeliculas.resources
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.AssemblyInfo.cs
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.dll
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\refint\GeneradorTitulosPeliculas.dll
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.pdb
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\GeneradorTitulosPeliculas.genruntimeconfig.cache
+D:\Repositorios\windowsForm\Relacion2\GeneradorTitulosPeliculas\GeneradorTitulosPeliculas\obj\Debug\net6.0-windows\ref\GeneradorTitulosPeliculas.dll
