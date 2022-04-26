@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\bin\Debug\net6.0-windows\SuperTest.exe
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\bin\Debug\net6.0-windows\SuperTest.deps.json
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\bin\Debug\net6.0-windows\SuperTest.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\bin\Debug\net6.0-windows\SuperTest.dll
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\bin\Debug\net6.0-windows\SuperTest.pdb
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.dll
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\refint\SuperTest.dll
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.pdb
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\ref\SuperTest.dll
+G:\Repositorios\WindowsForms\Relacion2\SuperTest\SuperTest\obj\Debug\net6.0-windows\SuperTest.SuperTest.resources

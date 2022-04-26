@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Listview\Listview\bin\Debug\net6.0-windows\Listview.exe
+G:\Repositorios\WindowsForms\Listview\Listview\bin\Debug\net6.0-windows\Listview.deps.json
+G:\Repositorios\WindowsForms\Listview\Listview\bin\Debug\net6.0-windows\Listview.runtimeconfig.json
+G:\Repositorios\WindowsForms\Listview\Listview\bin\Debug\net6.0-windows\Listview.dll
+G:\Repositorios\WindowsForms\Listview\Listview\bin\Debug\net6.0-windows\Listview.pdb
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.ExplicacionListview.resources
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.dll
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\refint\Listview.dll
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.pdb
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\Listview.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Listview\Listview\obj\Debug\net6.0-windows\ref\Listview.dll

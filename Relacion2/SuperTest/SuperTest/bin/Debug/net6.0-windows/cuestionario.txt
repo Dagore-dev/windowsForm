@@ -1,0 +1,4 @@
+Esto es un cuestionario breve sobre Magic The Gathering (MTG)
+¿Cuántos colores existen en MTG?;3;false;4;false;5;true
+Sin contar con efectos de cartas. ¿Cuántas tierras puedes bajar cada turno?;1;true;2;false;Depende del color que juegues;false
+¿Puedes usar cartas de más de un color en un mazo de magic?;No;false;Sí;true;Solo algunas combinaciones;false
