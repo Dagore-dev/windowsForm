@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\bin\Debug\net6.0-windows\LeeListaCSV.exe
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\bin\Debug\net6.0-windows\LeeListaCSV.deps.json
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\bin\Debug\net6.0-windows\LeeListaCSV.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\bin\Debug\net6.0-windows\LeeListaCSV.dll
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\bin\Debug\net6.0-windows\LeeListaCSV.pdb
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.LeeListaCSV.resources
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.dll
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\refint\LeeListaCSV.dll
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.pdb
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\LeeListaCSV.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\LeeListaCSV\LeeListaCSV\obj\Debug\net6.0-windows\ref\LeeListaCSV.dll
