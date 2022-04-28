@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\bin\Debug\net6.0-windows\VisualGatos.exe
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\bin\Debug\net6.0-windows\VisualGatos.deps.json
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\bin\Debug\net6.0-windows\VisualGatos.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\bin\Debug\net6.0-windows\VisualGatos.dll
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\bin\Debug\net6.0-windows\VisualGatos.pdb
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.VisualGatitos.resources
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.dll
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\refint\VisualGatos.dll
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.pdb
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\VisualGatos.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\VisualGatos\VisualGatos\obj\Debug\net6.0-windows\ref\VisualGatos.dll
