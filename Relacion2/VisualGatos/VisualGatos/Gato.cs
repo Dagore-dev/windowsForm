@@ -25,6 +25,22 @@ namespace VisualGatos
             this.eyeColor = eyeColor;
         }
 
+        public string[] Properties
+        {
+            get 
+            {
+                return new string[]
+                {
+                    name,
+                    hairColor,
+                    race,
+                    weight.ToString(),
+                    size.ToString(),
+                    eyeColor
+                };
+            }
+        }
+
         public string Name { get => name; set => name = value; }
         public string HairColor { get => hairColor; set => hairColor = value; }
         public string Race { get => race; set => race = value; }

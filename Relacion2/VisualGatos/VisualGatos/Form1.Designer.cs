@@ -99,6 +99,7 @@
             this.btnRemove.TabIndex = 21;
             this.btnRemove.Text = "Eliminar";
             this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.BtnRemove_Click);
             // 
             // btnUpdate
             // 
@@ -111,6 +112,7 @@
             this.btnUpdate.TabIndex = 20;
             this.btnUpdate.Text = "Modificar";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.BtnUpdate_Click);
             // 
             // btnSave
             // 
@@ -123,6 +125,7 @@
             this.btnSave.TabIndex = 19;
             this.btnSave.Text = "Guardar";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.BtnSave_Click);
             // 
             // textBoxEyeColor
             // 
@@ -227,6 +230,7 @@
             this.listViewDetail.TabIndex = 1;
             this.listViewDetail.UseCompatibleStateImageBehavior = false;
             this.listViewDetail.View = System.Windows.Forms.View.Details;
+            this.listViewDetail.SelectedIndexChanged += new System.EventHandler(this.ListViewDetail_SelectedIndexChanged);
             // 
             // textBoxName
             // 
@@ -256,6 +260,7 @@
             this.btnNew.TabIndex = 18;
             this.btnNew.Text = "Nuevo";
             this.btnNew.UseVisualStyleBackColor = true;
+            this.btnNew.Click += new System.EventHandler(this.BtnNew_Click);
             // 
             // VisualGatitos
             // 
