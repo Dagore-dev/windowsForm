@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dagore\\.nuget\\packages\\": {}
+    "C:\\Users\\dagor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion2\\VisualGatos\\VisualGatos\\VisualGatos.csproj",
+      "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion2\\VisualGatos\\VisualGatos\\VisualGatos.csproj",
       "projectName": "VisualGatos",
-      "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\VisualGatos\\VisualGatos\\VisualGatos.csproj",
-      "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-      "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\VisualGatos\\VisualGatos\\obj\\",
+      "projectPath": "D:\\Repositorios\\windowsForm\\Relacion2\\VisualGatos\\VisualGatos\\VisualGatos.csproj",
+      "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositorios\\windowsForm\\Relacion2\\VisualGatos\\VisualGatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

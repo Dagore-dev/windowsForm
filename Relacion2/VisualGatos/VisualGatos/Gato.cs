@@ -34,8 +34,8 @@ namespace VisualGatos
                     name,
                     hairColor,
                     race,
-                    weight.ToString(),
-                    size.ToString(),
+                    String.Format("{0:0.00}", weight).Replace(',', '.'),
+                    String.Format("{0:0.00}", size).Replace(',', '.'),
                     eyeColor
                 };
             }

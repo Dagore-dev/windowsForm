@@ -49,8 +49,6 @@ namespace VisualGatos
 
                 ListViewItem item = listViewDetail.Items[i];
 
-                sw.Write(item.Text + ",");
-
                 for (int j = 0; j < item.SubItems.Count; j++)
                 {
                     sw.Write(item.SubItems[j].Text + ",");
@@ -58,6 +56,11 @@ namespace VisualGatos
             }
 
             sw.Close();
+        }
+        private void UpdateColumsSize ()
+        {
+            listViewDetail.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
+            listViewDetail.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
         }
         private void UpdateListviewFromCSV(CSV csv)
         {
@@ -75,37 +78,42 @@ namespace VisualGatos
                 listViewDetail.Items.Add(lvi);
             }
 
-            listViewDetail.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
-            listViewDetail.AutoResizeColumns(ColumnHeaderAutoResizeStyle.HeaderSize);
+            UpdateColumsSize();
         }
-        private void NewBehavior()
+        private void ClearFields ()
         {
-            btnUpdate.Enabled = false;
-            btnRemove.Enabled = false;
-
             textBoxName.Clear();
             textBoxColor.Clear();
             textBoxRace.Clear();
             textBoxWeight.Clear();
             textBoxSize.Clear();
             textBoxEyeColor.Clear();
+        }
+        private void NewBehavior()
+        {
+            btnUpdate.Enabled = false;
+            btnRemove.Enabled = false;
+
+            ClearFields();
 
             btnSave.Enabled = true;
         }
         private void SaveBehaviour()
         {
             btnSave.Enabled = false;
+            btnRemove.Enabled = false;
+            btnUpdate.Enabled = false;
             listViewDetail.SelectedItems.Clear();
+            ClearFields();
+            UpdateColumsSize();
         }
         private void RemoveBehaviour()
         {
             btnRemove.Enabled = false;
             btnUpdate.Enabled = false;
         }
-        public void UpdateBehaviour()
+        private void UpdateBehaviour()
         {
-            btnUpdate.Enabled = false;
-            btnRemove.Enabled = false;
             btnSave.Enabled = true;
         }
 
@@ -115,34 +123,66 @@ namespace VisualGatos
         }
         private void ListViewDetail_SelectedIndexChanged(object sender, EventArgs e)
         {
-            btnSave.Enabled = false;
-            btnUpdate.Enabled = true;
-            btnRemove.Enabled = true;
+            if (listViewDetail.SelectedIndices.Count != 0)
+            {
+                btnSave.Enabled = false;
+                btnUpdate.Enabled = true;
+                btnRemove.Enabled = true;
+            }
         }
         private void BtnNew_Click(object sender, EventArgs e)
         {
+            listViewDetail.SelectedItems.Clear();
             NewBehavior();
         }
         private void BtnSave_Click(object sender, EventArgs e)
         {
             Gato gato;
             ListViewItem item;
+            string name = textBoxName.Text, hairColor = textBoxColor.Text, race = textBoxRace.Text, eyeColor = textBoxEyeColor.Text;
             double weight, size;
             
             if (double.TryParse(textBoxWeight.Text, out weight) && double.TryParse(textBoxSize.Text, out size))
             {
-                //ESTO NO ESTÁ FUNCIONANDO.
-                gato = new Gato(textBoxName.Text, textBoxColor.Text, textBoxRace.Text, weight, size, textBoxEyeColor.Text);
-                item = new ListViewItem(gato.Properties);
-                listViewDetail.Items.Add(item);
+                if (name.Length != 0 && hairColor.Length != 0 && race.Length != 0 && eyeColor.Length != 0)
+                {
+                    gato = new Gato(name, hairColor, race, weight, size, eyeColor);
+                    item = new ListViewItem(gato.Properties);
 
-                SaveBehaviour();
+                    if (listViewDetail.SelectedIndices.Count == 0)
+                    {
+                        listViewDetail.Items.Add(item);
+                    }
+                    else
+                    {
+                        ListViewItem.ListViewSubItemCollection subitems = listViewDetail.SelectedItems[0].SubItems;
+
+                        subitems[0].Text = name;
+                        subitems[1].Text = hairColor;
+                        subitems[2].Text = race;
+                        subitems[3].Text = String.Format("{0:0.00}", weight).Replace(',', '.');
+                        subitems[4].Text = String.Format("{0:0.00}", size).Replace(',', '.');
+                        subitems[5].Text = eyeColor;
+                    }
+
+                    SaveBehaviour();
+                }
+                else
+                {
+                    MessageBox.Show("Los campos son obligatorios. Si no los conones indica \"Desconocido\" o -1 para peso y tamaño", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
-            
+            else
+            {
+                MessageBox.Show("Error en los campos numéricos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
         private void BtnRemove_Click(object sender, EventArgs e)
         {
+            ListViewItem item = listViewDetail.SelectedItems[0];
+            listViewDetail.Items.Remove(item);
+            
             RemoveBehaviour();
         }
         private void BtnUpdate_Click(object sender, EventArgs e)
