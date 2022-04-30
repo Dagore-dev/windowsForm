@@ -21,5 +21,16 @@ namespace Notepad
             sr.Close();
             return lines.ToArray();
         }
+        public static void SaveTextFile (string path, string[] lines)
+        {
+            StreamWriter sw = new StreamWriter(path);
+
+            foreach (string line in lines)
+            {
+                sw.WriteLine(line);
+            }
+            
+            sw.Close();
+        }
     }
 }
