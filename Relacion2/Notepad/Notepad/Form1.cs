@@ -20,6 +20,12 @@ namespace Notepad
             modified = false;
             statusStrip1.Items[0].Text = "No hay cambios sin guardar";
         }
+        private void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+            HaveBeenModified();
+        }
+
+        #region Archivo
         private void OpenFile()
         {
             DialogResult openFile = openFileDialog1.ShowDialog();
@@ -133,9 +139,41 @@ namespace Notepad
         {
             SaveFile();
         }
-        private void TextBox1_TextChanged(object sender, EventArgs e)
+        #endregion
+        #region Edicion
+        private void DeshacerToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            HaveBeenModified();
+            textBox1.Undo();
         }
+        private void SeleccionarTodoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            textBox1.SelectAll();
+        }
+        private void HoraYFechaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string date = DateTime.Now.ToString("HH:mm dd/MM/yyyy");
+            textBox1.Paste(date);
+        }
+        private void CortarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            textBox1.Cut();
+        }
+        private void CopiarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            textBox1.Copy();
+        }
+        private void PegarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            textBox1.Paste();
+        }
+        private void EliminarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (textBox1.SelectionLength != 0)
+            {
+                textBox1.Text = textBox1.Text.Remove(textBox1.SelectionStart, textBox1.SelectionLength);
+            }
+        }
+        #endregion
+
     }
 }

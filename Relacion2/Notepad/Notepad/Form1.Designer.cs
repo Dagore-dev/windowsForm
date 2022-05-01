@@ -148,54 +148,68 @@
             // deshacerToolStripMenuItem
             // 
             this.deshacerToolStripMenuItem.Name = "deshacerToolStripMenuItem";
-            this.deshacerToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.deshacerToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
+            this.deshacerToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.deshacerToolStripMenuItem.Text = "Deshacer";
+            this.deshacerToolStripMenuItem.Click += new System.EventHandler(this.DeshacerToolStripMenuItem_Click);
             // 
             // toolStripMenuItem2
             // 
             this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-            this.toolStripMenuItem2.Size = new System.Drawing.Size(159, 6);
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(199, 6);
             // 
             // cortarToolStripMenuItem
             // 
             this.cortarToolStripMenuItem.Name = "cortarToolStripMenuItem";
-            this.cortarToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.cortarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
+            this.cortarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.cortarToolStripMenuItem.Text = "Cortar";
+            this.cortarToolStripMenuItem.Click += new System.EventHandler(this.CortarToolStripMenuItem_Click);
             // 
             // copiarToolStripMenuItem
             // 
             this.copiarToolStripMenuItem.Name = "copiarToolStripMenuItem";
-            this.copiarToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.copiarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
+            this.copiarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.copiarToolStripMenuItem.Text = "Copiar";
+            this.copiarToolStripMenuItem.Click += new System.EventHandler(this.CopiarToolStripMenuItem_Click);
             // 
             // pegarToolStripMenuItem
             // 
             this.pegarToolStripMenuItem.Name = "pegarToolStripMenuItem";
-            this.pegarToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.pegarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
+            this.pegarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.pegarToolStripMenuItem.Text = "Pegar";
+            this.pegarToolStripMenuItem.Click += new System.EventHandler(this.PegarToolStripMenuItem_Click);
             // 
             // eliminarToolStripMenuItem
             // 
             this.eliminarToolStripMenuItem.Name = "eliminarToolStripMenuItem";
-            this.eliminarToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.eliminarToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.Delete;
+            this.eliminarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.eliminarToolStripMenuItem.Text = "Eliminar";
+            this.eliminarToolStripMenuItem.Click += new System.EventHandler(this.EliminarToolStripMenuItem_Click);
             // 
             // toolStripMenuItem3
             // 
             this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-            this.toolStripMenuItem3.Size = new System.Drawing.Size(159, 6);
+            this.toolStripMenuItem3.Size = new System.Drawing.Size(199, 6);
             // 
             // seleccionarTodoToolStripMenuItem
             // 
             this.seleccionarTodoToolStripMenuItem.Name = "seleccionarTodoToolStripMenuItem";
-            this.seleccionarTodoToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.seleccionarTodoToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
+            this.seleccionarTodoToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.seleccionarTodoToolStripMenuItem.Text = "Seleccionar todo";
+            this.seleccionarTodoToolStripMenuItem.Click += new System.EventHandler(this.SeleccionarTodoToolStripMenuItem_Click);
             // 
             // horaYFechaToolStripMenuItem
             // 
             this.horaYFechaToolStripMenuItem.Name = "horaYFechaToolStripMenuItem";
-            this.horaYFechaToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.horaYFechaToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F5;
+            this.horaYFechaToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
             this.horaYFechaToolStripMenuItem.Text = "Hora y fecha";
+            this.horaYFechaToolStripMenuItem.Click += new System.EventHandler(this.HoraYFechaToolStripMenuItem_Click);
             // 
             // formatoToolStripMenuItem
             // 
