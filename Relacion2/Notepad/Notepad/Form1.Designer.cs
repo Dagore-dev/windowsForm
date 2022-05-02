@@ -50,11 +50,14 @@
             this.formatoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajusteDeLíneaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.fuenteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.colorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
+            this.fontDialog1 = new System.Windows.Forms.FontDialog();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -215,7 +218,8 @@
             // 
             this.formatoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ajusteDeLíneaToolStripMenuItem,
-            this.fuenteToolStripMenuItem});
+            this.fuenteToolStripMenuItem,
+            this.colorToolStripMenuItem});
             this.formatoToolStripMenuItem.Name = "formatoToolStripMenuItem";
             this.formatoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.formatoToolStripMenuItem.Text = "Formato";
@@ -223,14 +227,23 @@
             // ajusteDeLíneaToolStripMenuItem
             // 
             this.ajusteDeLíneaToolStripMenuItem.Name = "ajusteDeLíneaToolStripMenuItem";
-            this.ajusteDeLíneaToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
+            this.ajusteDeLíneaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ajusteDeLíneaToolStripMenuItem.Text = "Ajuste de línea";
+            this.ajusteDeLíneaToolStripMenuItem.Click += new System.EventHandler(this.AjusteDeLíneaToolStripMenuItem_Click);
             // 
             // fuenteToolStripMenuItem
             // 
             this.fuenteToolStripMenuItem.Name = "fuenteToolStripMenuItem";
-            this.fuenteToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
-            this.fuenteToolStripMenuItem.Text = "Fuente...";
+            this.fuenteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fuenteToolStripMenuItem.Text = "Fuente ...";
+            this.fuenteToolStripMenuItem.Click += new System.EventHandler(this.FuenteToolStripMenuItem_Click);
+            // 
+            // colorToolStripMenuItem
+            // 
+            this.colorToolStripMenuItem.Name = "colorToolStripMenuItem";
+            this.colorToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.colorToolStripMenuItem.Text = "Color ...";
+            this.colorToolStripMenuItem.Click += new System.EventHandler(this.ColorToolStripMenuItem_Click);
             // 
             // textBox1
             // 
@@ -316,5 +329,8 @@
         private StatusStrip statusStrip1;
         private ToolStripStatusLabel toolStripStatusLabel1;
         private SaveFileDialog saveFileDialog1;
+        private FontDialog fontDialog1;
+        private ToolStripMenuItem colorToolStripMenuItem;
+        private ColorDialog colorDialog1;
     }
 }

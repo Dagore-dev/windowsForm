@@ -174,6 +174,42 @@ namespace Notepad
             }
         }
         #endregion
+        #region Formato
+        private void FuenteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult fontChange = fontDialog1.ShowDialog();
+
+            if (fontChange == DialogResult.OK)
+            {
+                textBox1.Font = fontDialog1.Font;
+                textBox1.DeselectAll();
+            }
+        }
+        private void ColorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult colorChange = colorDialog1.ShowDialog();
+
+            if (colorChange == DialogResult.OK)
+            {
+                textBox1.ForeColor = colorDialog1.Color;
+                textBox1.DeselectAll();
+            }
+        }
+        private void AjusteDeLíneaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ToolStripMenuItem ajusteDeLinea = (ToolStripMenuItem)sender;
+            if (textBox1.WordWrap)
+            {
+                textBox1.WordWrap = false;
+                ajusteDeLinea.Checked = false;
+            }
+            else
+            {
+                textBox1.WordWrap = true;
+                ajusteDeLinea.Checked = true;
+            }
+        }
+        #endregion
 
     }
 }
