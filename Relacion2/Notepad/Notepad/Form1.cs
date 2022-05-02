@@ -20,6 +20,38 @@ namespace Notepad
             modified = false;
             statusStrip1.Items[0].Text = "No hay cambios sin guardar";
         }
+        private void Notepad_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult messageBox, saveFile;
+
+            if (modified)
+            {
+                messageBox = MessageBox.Show("Parece que hay cambios sin guardar en el documento. ¿Quiere guardar los cambios?", "Cambios sin guardar", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+
+                if (messageBox != DialogResult.Cancel)
+                {
+                    if (messageBox == DialogResult.Yes)
+                    {
+                        if (currentPath != null)
+                        {
+                            saveFile = SaveFile(currentPath);
+                        }
+                        else
+                        {
+                            saveFile = SaveFile();
+                        }
+                        if (saveFile != DialogResult.OK)
+                        {
+                            e.Cancel = true;
+                        }
+                    }
+                }
+                else
+                {
+                    e.Cancel = true;
+                }
+            }
+        }
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {
             HaveBeenModified();
@@ -39,7 +71,7 @@ namespace Notepad
                 NoChanges();
             }
         }
-        private void SaveFile()
+        private DialogResult SaveFile()
         {
             DialogResult saveFile = saveFileDialog1.ShowDialog();
             string path = saveFileDialog1.FileName;
@@ -51,12 +83,15 @@ namespace Notepad
                 Text = Path.GetFileName(path);
                 NoChanges();
             }
+
+            return saveFile;
         }
-        private void SaveFile (string path)
+        private DialogResult SaveFile (string path)
         {
             FileManager.SaveTextFile(path, textBox1.Lines);
             Text = Path.GetFileName(path);
             NoChanges();
+            return DialogResult.OK;
         }
         private void NewFile()
         {
@@ -78,13 +113,17 @@ namespace Notepad
                 {
                     if (messageBox == DialogResult.Yes)
                     {
-                        SaveFile();
-                        OpenFile();
+                        if (currentPath != null)
+                        {
+                            SaveFile(currentPath);
+                        }
+                        else
+                        {
+                            SaveFile();
+                        }
                     }
-                    else
-                    {
-                        OpenFile();
-                    }
+
+                    OpenFile();
                 }
             }
             else

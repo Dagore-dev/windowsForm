@@ -227,21 +227,21 @@
             // ajusteDeLíneaToolStripMenuItem
             // 
             this.ajusteDeLíneaToolStripMenuItem.Name = "ajusteDeLíneaToolStripMenuItem";
-            this.ajusteDeLíneaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ajusteDeLíneaToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.ajusteDeLíneaToolStripMenuItem.Text = "Ajuste de línea";
             this.ajusteDeLíneaToolStripMenuItem.Click += new System.EventHandler(this.AjusteDeLíneaToolStripMenuItem_Click);
             // 
             // fuenteToolStripMenuItem
             // 
             this.fuenteToolStripMenuItem.Name = "fuenteToolStripMenuItem";
-            this.fuenteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.fuenteToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.fuenteToolStripMenuItem.Text = "Fuente ...";
             this.fuenteToolStripMenuItem.Click += new System.EventHandler(this.FuenteToolStripMenuItem_Click);
             // 
             // colorToolStripMenuItem
             // 
             this.colorToolStripMenuItem.Name = "colorToolStripMenuItem";
-            this.colorToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.colorToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
             this.colorToolStripMenuItem.Text = "Color ...";
             this.colorToolStripMenuItem.Click += new System.EventHandler(this.ColorToolStripMenuItem_Click);
             // 
@@ -292,6 +292,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Notepad";
             this.Text = "Blog de notas";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Notepad_FormClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.statusStrip1.ResumeLayout(false);
