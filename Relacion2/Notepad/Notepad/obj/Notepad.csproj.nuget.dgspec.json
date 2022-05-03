@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\windowsForm\\Relacion2\\Notepad\\Notepad\\Notepad.csproj": {}
+    "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\windowsForm\\Relacion2\\Notepad\\Notepad\\Notepad.csproj": {
+    "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\windowsForm\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
+        "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
         "projectName": "Notepad",
-        "projectPath": "D:\\Repositorios\\windowsForm\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
-        "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\windowsForm\\Relacion2\\Notepad\\Notepad\\obj\\",
+        "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
+        "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
+        "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

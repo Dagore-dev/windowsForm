@@ -13,12 +13,36 @@ namespace Notepad
         private void HaveBeenModified ()
         {
             modified = true;
+            deshacerToolStripMenuItem.Enabled = true;
             statusStrip1.Items[0].Text = "Fichero modificado";
         }
         private void NoChanges()
         {
             modified = false;
+            deshacerToolStripMenuItem.Enabled = false;
             statusStrip1.Items[0].Text = "No hay cambios sin guardar";
+        }
+        private void SelectionBehaviour ()
+        {
+            if (textBox1.SelectedText.Length != 0)
+            {
+                cortarToolStripMenuItem.Enabled = true;
+                copiarToolStripMenuItem.Enabled = true;
+                eliminarToolStripMenuItem.Enabled = true;
+                cortarToolStripMenuItem1.Enabled = true;
+                copiarToolStripMenuItem1.Enabled = true;
+                eliminarToolStripMenuItem1.Enabled = true;
+            }
+            else
+            {
+                cortarToolStripMenuItem.Enabled = false;
+                copiarToolStripMenuItem.Enabled = false;
+                eliminarToolStripMenuItem.Enabled = false;
+                cortarToolStripMenuItem1.Enabled = false;
+                copiarToolStripMenuItem1.Enabled = false;
+                eliminarToolStripMenuItem1.Enabled = false;
+
+            }
         }
         private void Notepad_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -55,6 +79,23 @@ namespace Notepad
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {
             HaveBeenModified();
+            SelectionBehaviour();
+        }
+        private void TextBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            SelectionBehaviour();
+        }
+        private void TextBox1_MouseUp(object sender, MouseEventArgs e)
+        {
+            SelectionBehaviour();
+        }
+        private void TextBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            SelectionBehaviour ();
+        }
+        private void TextBox1_KeyUp(object sender, KeyEventArgs e)
+        {
+            SelectionBehaviour();
         }
 
         #region Archivo
@@ -246,6 +287,35 @@ namespace Notepad
             {
                 textBox1.WordWrap = true;
                 ajusteDeLinea.Checked = true;
+            }
+        }
+        #endregion
+        #region Context menu
+        private void DeshacerToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            textBox1.Undo();
+        }
+        private void SeleccionarTodoToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            textBox1.SelectAll();
+        }
+        private void CortarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            textBox1.Cut();
+        }
+        private void CopiarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            textBox1.Copy();
+        }
+        private void PegarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            textBox1.Paste();
+        }
+        private void EliminarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.SelectionLength != 0)
+            {
+                textBox1.Text = textBox1.Text.Remove(textBox1.SelectionStart, textBox1.SelectionLength);
             }
         }
         #endregion

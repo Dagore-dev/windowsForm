@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Notepad));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.nuevoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -58,8 +59,18 @@
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.deshacerToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripSeparator();
+            this.copiarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.pegarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.eliminarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripSeparator();
+            this.seleccionarTodoToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.cortarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -150,6 +161,7 @@
             // 
             // deshacerToolStripMenuItem
             // 
+            this.deshacerToolStripMenuItem.Enabled = false;
             this.deshacerToolStripMenuItem.Name = "deshacerToolStripMenuItem";
             this.deshacerToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
             this.deshacerToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
@@ -163,6 +175,7 @@
             // 
             // cortarToolStripMenuItem
             // 
+            this.cortarToolStripMenuItem.Enabled = false;
             this.cortarToolStripMenuItem.Name = "cortarToolStripMenuItem";
             this.cortarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
             this.cortarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
@@ -171,6 +184,7 @@
             // 
             // copiarToolStripMenuItem
             // 
+            this.copiarToolStripMenuItem.Enabled = false;
             this.copiarToolStripMenuItem.Name = "copiarToolStripMenuItem";
             this.copiarToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
             this.copiarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
@@ -187,6 +201,7 @@
             // 
             // eliminarToolStripMenuItem
             // 
+            this.eliminarToolStripMenuItem.Enabled = false;
             this.eliminarToolStripMenuItem.Name = "eliminarToolStripMenuItem";
             this.eliminarToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.Delete;
             this.eliminarToolStripMenuItem.Size = new System.Drawing.Size(202, 22);
@@ -256,6 +271,10 @@
             this.textBox1.TabIndex = 1;
             this.textBox1.WordWrap = false;
             this.textBox1.TextChanged += new System.EventHandler(this.TextBox1_TextChanged);
+            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TextBox1_KeyDown);
+            this.textBox1.KeyUp += new System.Windows.Forms.KeyEventHandler(this.TextBox1_KeyUp);
+            this.textBox1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.TextBox1_MouseDown);
+            this.textBox1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.TextBox1_MouseUp);
             // 
             // openFileDialog1
             // 
@@ -280,6 +299,75 @@
             // 
             this.saveFileDialog1.DefaultExt = "txt";
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.deshacerToolStripMenuItem1,
+            this.toolStripMenuItem4,
+            this.cortarToolStripMenuItem1,
+            this.copiarToolStripMenuItem1,
+            this.pegarToolStripMenuItem1,
+            this.eliminarToolStripMenuItem1,
+            this.toolStripMenuItem5,
+            this.seleccionarTodoToolStripMenuItem1});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(163, 148);
+            // 
+            // deshacerToolStripMenuItem1
+            // 
+            this.deshacerToolStripMenuItem1.Name = "deshacerToolStripMenuItem1";
+            this.deshacerToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.deshacerToolStripMenuItem1.Text = "Deshacer";
+            this.deshacerToolStripMenuItem1.Click += new System.EventHandler(this.DeshacerToolStripMenuItem1_Click);
+            // 
+            // toolStripMenuItem4
+            // 
+            this.toolStripMenuItem4.Name = "toolStripMenuItem4";
+            this.toolStripMenuItem4.Size = new System.Drawing.Size(159, 6);
+            // 
+            // copiarToolStripMenuItem1
+            // 
+            this.copiarToolStripMenuItem1.Enabled = false;
+            this.copiarToolStripMenuItem1.Name = "copiarToolStripMenuItem1";
+            this.copiarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.copiarToolStripMenuItem1.Text = "Copiar";
+            this.copiarToolStripMenuItem1.Click += new System.EventHandler(this.CopiarToolStripMenuItem1_Click);
+            // 
+            // pegarToolStripMenuItem1
+            // 
+            this.pegarToolStripMenuItem1.Name = "pegarToolStripMenuItem1";
+            this.pegarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.pegarToolStripMenuItem1.Text = "Pegar";
+            this.pegarToolStripMenuItem1.Click += new System.EventHandler(this.PegarToolStripMenuItem1_Click);
+            // 
+            // eliminarToolStripMenuItem1
+            // 
+            this.eliminarToolStripMenuItem1.Enabled = false;
+            this.eliminarToolStripMenuItem1.Name = "eliminarToolStripMenuItem1";
+            this.eliminarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.eliminarToolStripMenuItem1.Text = "Eliminar";
+            this.eliminarToolStripMenuItem1.Click += new System.EventHandler(this.EliminarToolStripMenuItem1_Click);
+            // 
+            // toolStripMenuItem5
+            // 
+            this.toolStripMenuItem5.Name = "toolStripMenuItem5";
+            this.toolStripMenuItem5.Size = new System.Drawing.Size(159, 6);
+            // 
+            // seleccionarTodoToolStripMenuItem1
+            // 
+            this.seleccionarTodoToolStripMenuItem1.Name = "seleccionarTodoToolStripMenuItem1";
+            this.seleccionarTodoToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.seleccionarTodoToolStripMenuItem1.Text = "Seleccionar todo";
+            this.seleccionarTodoToolStripMenuItem1.Click += new System.EventHandler(this.SeleccionarTodoToolStripMenuItem1_Click);
+            // 
+            // cortarToolStripMenuItem1
+            // 
+            this.cortarToolStripMenuItem1.Enabled = false;
+            this.cortarToolStripMenuItem1.Name = "cortarToolStripMenuItem1";
+            this.cortarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.cortarToolStripMenuItem1.Text = "Cortar";
+            this.cortarToolStripMenuItem1.Click += new System.EventHandler(this.CortarToolStripMenuItem1_Click);
+            // 
             // Notepad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -297,6 +385,7 @@
             this.menuStrip1.PerformLayout();
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -333,5 +422,14 @@
         private FontDialog fontDialog1;
         private ToolStripMenuItem colorToolStripMenuItem;
         private ColorDialog colorDialog1;
+        private ContextMenuStrip contextMenuStrip1;
+        private ToolStripMenuItem deshacerToolStripMenuItem1;
+        private ToolStripSeparator toolStripMenuItem4;
+        private ToolStripMenuItem copiarToolStripMenuItem1;
+        private ToolStripMenuItem pegarToolStripMenuItem1;
+        private ToolStripMenuItem eliminarToolStripMenuItem1;
+        private ToolStripSeparator toolStripMenuItem5;
+        private ToolStripMenuItem seleccionarTodoToolStripMenuItem1;
+        private ToolStripMenuItem cortarToolStripMenuItem1;
     }
 }
