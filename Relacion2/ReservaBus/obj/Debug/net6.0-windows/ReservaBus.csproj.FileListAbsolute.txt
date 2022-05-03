@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\bin\Debug\net6.0-windows\ReservaBus.exe
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\bin\Debug\net6.0-windows\ReservaBus.deps.json
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\bin\Debug\net6.0-windows\ReservaBus.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\bin\Debug\net6.0-windows\ReservaBus.dll
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\bin\Debug\net6.0-windows\ReservaBus.pdb
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.ReservaBus.resources
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.dll
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\refint\ReservaBus.dll
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.pdb
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ReservaBus.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion2\ReservaBus\obj\Debug\net6.0-windows\ref\ReservaBus.dll

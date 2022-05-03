@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\CreacionElementos\bin\Debug\net6.0-windows\CreacionElementos.exe
+G:\Repositorios\WindowsForms\CreacionElementos\bin\Debug\net6.0-windows\CreacionElementos.deps.json
+G:\Repositorios\WindowsForms\CreacionElementos\bin\Debug\net6.0-windows\CreacionElementos.runtimeconfig.json
+G:\Repositorios\WindowsForms\CreacionElementos\bin\Debug\net6.0-windows\CreacionElementos.dll
+G:\Repositorios\WindowsForms\CreacionElementos\bin\Debug\net6.0-windows\CreacionElementos.pdb
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.Form1.resources
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.dll
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\refint\CreacionElementos.dll
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.pdb
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\CreacionElementos.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\CreacionElementos\obj\Debug\net6.0-windows\ref\CreacionElementos.dll
