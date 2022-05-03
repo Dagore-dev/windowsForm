@@ -14,13 +14,13 @@ namespace Notepad
         {
             modified = true;
             deshacerToolStripMenuItem.Enabled = true;
-            statusStrip1.Items[0].Text = "Fichero modificado";
+            statusLabelChanges.Text = "Fichero modificado";
         }
         private void NoChanges()
         {
             modified = false;
             deshacerToolStripMenuItem.Enabled = false;
-            statusStrip1.Items[0].Text = "No hay cambios sin guardar";
+            statusLabelChanges.Text = "No hay cambios sin guardar";
         }
         private void SelectionBehaviour ()
         {
@@ -43,6 +43,30 @@ namespace Notepad
                 eliminarToolStripMenuItem1.Enabled = false;
 
             }
+        }
+        private void UpdatePosition ()
+        {
+            CursorPosition cursorPosition = GetCurrentPosition();
+
+            statusLabelColumns.Text = $"Fila {cursorPosition.Row}, columna {cursorPosition.Column}";
+        }
+        private CursorPosition GetCurrentPosition ()
+        {
+            int row = 0, column = 0;
+
+            for (int i = 0; i < textBox1.SelectionStart; i++)
+            {
+                column++;
+
+                if (textBox1.Text[i] == '\n')
+                {
+                    column = 0;
+                    row++;
+                }
+
+            }
+
+            return new CursorPosition(row, column);
         }
         private void Notepad_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -80,22 +104,27 @@ namespace Notepad
         {
             HaveBeenModified();
             SelectionBehaviour();
+            UpdatePosition();
         }
         private void TextBox1_MouseDown(object sender, MouseEventArgs e)
         {
             SelectionBehaviour();
+            UpdatePosition();
         }
         private void TextBox1_MouseUp(object sender, MouseEventArgs e)
         {
             SelectionBehaviour();
+            UpdatePosition();
         }
         private void TextBox1_KeyDown(object sender, KeyEventArgs e)
         {
             SelectionBehaviour ();
+            UpdatePosition();
         }
         private void TextBox1_KeyUp(object sender, KeyEventArgs e)
         {
             SelectionBehaviour();
+            UpdatePosition();
         }
 
         #region Archivo

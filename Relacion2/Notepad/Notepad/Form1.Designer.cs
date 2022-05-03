@@ -54,23 +54,24 @@
             this.colorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.deshacerToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripSeparator();
+            this.cortarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.copiarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.pegarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.eliminarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripSeparator();
             this.seleccionarTodoToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.cortarToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.statusLabelColumns = new System.Windows.Forms.ToolStripStatusLabel();
+            this.statusLabelChanges = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1.SuspendLayout();
-            this.statusStrip1.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -267,7 +268,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox1.Size = new System.Drawing.Size(800, 404);
+            this.textBox1.Size = new System.Drawing.Size(800, 426);
             this.textBox1.TabIndex = 1;
             this.textBox1.WordWrap = false;
             this.textBox1.TextChanged += new System.EventHandler(this.TextBox1_TextChanged);
@@ -279,21 +280,6 @@
             // openFileDialog1
             // 
             this.openFileDialog1.Filter = "Archivos de texto|*.txt|Todos los archivos|*.*";
-            // 
-            // statusStrip1
-            // 
-            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel1});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 428);
-            this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(800, 22);
-            this.statusStrip1.TabIndex = 2;
-            this.statusStrip1.Text = "statusStrip1";
-            // 
-            // toolStripStatusLabel1
-            // 
-            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(0, 17);
             // 
             // saveFileDialog1
             // 
@@ -324,6 +310,14 @@
             // 
             this.toolStripMenuItem4.Name = "toolStripMenuItem4";
             this.toolStripMenuItem4.Size = new System.Drawing.Size(159, 6);
+            // 
+            // cortarToolStripMenuItem1
+            // 
+            this.cortarToolStripMenuItem1.Enabled = false;
+            this.cortarToolStripMenuItem1.Name = "cortarToolStripMenuItem1";
+            this.cortarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
+            this.cortarToolStripMenuItem1.Text = "Cortar";
+            this.cortarToolStripMenuItem1.Click += new System.EventHandler(this.CortarToolStripMenuItem1_Click);
             // 
             // copiarToolStripMenuItem1
             // 
@@ -360,21 +354,36 @@
             this.seleccionarTodoToolStripMenuItem1.Text = "Seleccionar todo";
             this.seleccionarTodoToolStripMenuItem1.Click += new System.EventHandler(this.SeleccionarTodoToolStripMenuItem1_Click);
             // 
-            // cortarToolStripMenuItem1
+            // statusStrip1
             // 
-            this.cortarToolStripMenuItem1.Enabled = false;
-            this.cortarToolStripMenuItem1.Name = "cortarToolStripMenuItem1";
-            this.cortarToolStripMenuItem1.Size = new System.Drawing.Size(162, 22);
-            this.cortarToolStripMenuItem1.Text = "Cortar";
-            this.cortarToolStripMenuItem1.Click += new System.EventHandler(this.CortarToolStripMenuItem1_Click);
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.statusLabelColumns,
+            this.statusLabelChanges});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 428);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(800, 22);
+            this.statusStrip1.TabIndex = 2;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // statusLabelColumns
+            // 
+            this.statusLabelColumns.Name = "statusLabelColumns";
+            this.statusLabelColumns.Size = new System.Drawing.Size(96, 17);
+            this.statusLabelColumns.Text = "Fila 0, columna 0";
+            // 
+            // statusLabelChanges
+            // 
+            this.statusLabelChanges.Name = "statusLabelChanges";
+            this.statusLabelChanges.Size = new System.Drawing.Size(155, 17);
+            this.statusLabelChanges.Text = "No hay cambios sin guardar";
             // 
             // Notepad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.statusStrip1);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.menuStrip1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
@@ -383,9 +392,9 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Notepad_FormClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.contextMenuStrip1.ResumeLayout(false);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();
-            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -416,8 +425,6 @@
         private ToolStripMenuItem fuenteToolStripMenuItem;
         private TextBox textBox1;
         private OpenFileDialog openFileDialog1;
-        private StatusStrip statusStrip1;
-        private ToolStripStatusLabel toolStripStatusLabel1;
         private SaveFileDialog saveFileDialog1;
         private FontDialog fontDialog1;
         private ToolStripMenuItem colorToolStripMenuItem;
@@ -431,5 +438,8 @@
         private ToolStripSeparator toolStripMenuItem5;
         private ToolStripMenuItem seleccionarTodoToolStripMenuItem1;
         private ToolStripMenuItem cortarToolStripMenuItem1;
+        private StatusStrip statusStrip1;
+        private ToolStripStatusLabel statusLabelColumns;
+        private ToolStripStatusLabel statusLabelChanges;
     }
 }
