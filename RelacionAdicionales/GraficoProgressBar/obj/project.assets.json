@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
-      "projectName": "Notepad",
-      "projectPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\Notepad.csproj",
+      "projectUniqueName": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\GraficoProgressBar\\GraficoProgressBar.csproj",
+      "projectName": "GraficoProgressBar",
+      "projectPath": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\GraficoProgressBar\\GraficoProgressBar.csproj",
       "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-      "outputPath": "G:\\Repositorios\\WindowsForms\\Relacion2\\Notepad\\Notepad\\obj\\",
+      "outputPath": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\GraficoProgressBar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",

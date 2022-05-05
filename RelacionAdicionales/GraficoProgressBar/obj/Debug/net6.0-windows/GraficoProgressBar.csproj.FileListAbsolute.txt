@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\bin\Debug\net6.0-windows\GraficoProgressBar.exe
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\bin\Debug\net6.0-windows\GraficoProgressBar.deps.json
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\bin\Debug\net6.0-windows\GraficoProgressBar.runtimeconfig.json
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\bin\Debug\net6.0-windows\GraficoProgressBar.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\bin\Debug\net6.0-windows\GraficoProgressBar.pdb
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.Form1.resources
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\refint\GraficoProgressBar.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.pdb
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\GraficoProgressBar.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\GraficoProgressBar\obj\Debug\net6.0-windows\ref\GraficoProgressBar.dll
