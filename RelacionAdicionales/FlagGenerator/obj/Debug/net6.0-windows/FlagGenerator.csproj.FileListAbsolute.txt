@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\bin\Debug\net6.0-windows\FlagGenerator.exe
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\bin\Debug\net6.0-windows\FlagGenerator.deps.json
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\bin\Debug\net6.0-windows\FlagGenerator.runtimeconfig.json
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\bin\Debug\net6.0-windows\FlagGenerator.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\bin\Debug\net6.0-windows\FlagGenerator.pdb
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.FlagGenerator.resources
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\refint\FlagGenerator.dll
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.pdb
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\FlagGenerator.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\RelacionAdicionales\FlagGenerator\obj\Debug\net6.0-windows\ref\FlagGenerator.dll
