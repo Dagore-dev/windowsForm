@@ -3,7 +3,7 @@ namespace FlagGenerator
     public partial class FlagGenerator : Form
     {
         private Button[,] buttons;
-        private Color[,] flag;
+        private Color[,]? flag;
 
         public FlagGenerator()
         {
@@ -35,6 +35,40 @@ namespace FlagGenerator
         }
         private void BtnLoad_Click(object sender, EventArgs e)
         {
+            try
+            {
+                ReadFlag();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private void BtnReset_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < buttons.GetLength(0); i++)
+            {
+                for (int j = 0; j < buttons.GetLength(1); j++)
+                {
+                    buttons[i, j].BackColor = DefaultBackColor;
+                }
+            }
+            flag = null;
+        }
+        private void BtnSave_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                WriteFlag();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void ReadFlag ()
+        {
             DialogResult openResult = openFileDialog1.ShowDialog();
             string path;
 
@@ -54,6 +88,38 @@ namespace FlagGenerator
                         }
                     }
                 }
+            }
+        }
+        private void StoreFlag ()
+        {
+            Color color;
+
+            if (flag == null)
+            {
+                flag = new Color[3, 3];
+            }
+
+
+            for (int i = 0; i < buttons.GetLength(0); i++)
+            {
+                for (int j = 0; j < buttons.GetLength(1); j++)
+                {
+                    color = buttons[i, j].BackColor;
+                    flag[i, j] = color;
+                }
+            }
+        }
+        private void WriteFlag ()
+        {
+            StoreFlag();
+
+            DialogResult savingFlag = saveFileDialog1.ShowDialog();
+            string path;
+
+            if (savingFlag == DialogResult.OK)
+            {
+                path = saveFileDialog1.FileName;
+                FlagFiles.Save(path, flag);
             }
         }
     }

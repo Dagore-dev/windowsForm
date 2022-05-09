@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj": {}
+    "D:\\Repositorios\\windowsForm\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj": {}
   },
   "projects": {
-    "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj": {
+    "D:\\Repositorios\\windowsForm\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj",
+        "projectUniqueName": "D:\\Repositorios\\windowsForm\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj",
         "projectName": "FlagGenerator",
-        "projectPath": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj",
-        "packagesPath": "C:\\Users\\Dagore\\.nuget\\packages\\",
-        "outputPath": "G:\\Repositorios\\WindowsForms\\RelacionAdicionales\\FlagGenerator\\obj\\",
+        "projectPath": "D:\\Repositorios\\windowsForm\\RelacionAdicionales\\FlagGenerator\\FlagGenerator.csproj",
+        "packagesPath": "C:\\Users\\dagor\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorios\\windowsForm\\RelacionAdicionales\\FlagGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dagore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dagor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
