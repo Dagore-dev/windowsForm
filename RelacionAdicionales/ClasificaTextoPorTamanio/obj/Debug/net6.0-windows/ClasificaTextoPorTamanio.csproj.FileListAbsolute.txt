@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\bin\Debug\net6.0-windows\ClasificaTextoPorTamanio.exe
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\bin\Debug\net6.0-windows\ClasificaTextoPorTamanio.deps.json
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\bin\Debug\net6.0-windows\ClasificaTextoPorTamanio.runtimeconfig.json
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\bin\Debug\net6.0-windows\ClasificaTextoPorTamanio.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\bin\Debug\net6.0-windows\ClasificaTextoPorTamanio.pdb
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.ClasificaTextoPorTamanio.resources
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.AssemblyInfo.cs
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\refint\ClasificaTextoPorTamanio.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.pdb
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ClasificaTextoPorTamanio.genruntimeconfig.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\ClasificaTextoPorTamanio\obj\Debug\net6.0-windows\ref\ClasificaTextoPorTamanio.dll
