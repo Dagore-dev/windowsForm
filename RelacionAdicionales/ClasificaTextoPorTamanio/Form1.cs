@@ -34,11 +34,11 @@ namespace ClasificaTextoPorTamanio
             string[] words;
             string commaSeparatedList;
 
-            for (int i = 1; i < 11; i++)
+            for (int i = 0; i < 10; i++)
             {
                 words = clasificador[i].ToArray();
                 commaSeparatedList = ProcessWords(words);
-                item = new ListViewItem(new string[] { rowLabels[i - 1], commaSeparatedList });
+                item = new ListViewItem(new string[] { rowLabels[i], commaSeparatedList });
                 listView1.Items.Add(item);
             }
         }

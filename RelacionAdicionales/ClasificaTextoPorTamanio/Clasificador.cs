@@ -12,9 +12,9 @@ namespace ClasificaTextoPorTamanio
 
         public Clasificador (string path)
         {
-            clasifiedWords = new HashSet<string>[11];
+            clasifiedWords = new HashSet<string>[10];
             
-            for (int i = 0; i < 11; i++)
+            for (int i = 0; i < 10; i++)
             {
                 clasifiedWords[i] = new HashSet<string>();
             }
@@ -66,13 +66,13 @@ namespace ClasificaTextoPorTamanio
             {
                 length = word.Length;
                 
-                if (length < 10)
+                if (length < 9)
                 {
-                    clasifiedWords[length].Add(word);
+                    clasifiedWords[length - 1].Add(word);
                 }
                 else
                 {
-                    clasifiedWords[10].Add(word);
+                    clasifiedWords[9].Add(word);
                 }
             }
         }
