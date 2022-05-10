@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\bin\Debug\net6.0-windows\PruebaFiltros.exe
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\bin\Debug\net6.0-windows\PruebaFiltros.deps.json
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\bin\Debug\net6.0-windows\PruebaFiltros.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\bin\Debug\net6.0-windows\PruebaFiltros.dll
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\bin\Debug\net6.0-windows\PruebaFiltros.pdb
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.PruebaFiltros.resources
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.dll
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\refint\PruebaFiltros.dll
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.pdb
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\PruebaFiltros.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion3\PruebaFiltros\obj\Debug\net6.0-windows\ref\PruebaFiltros.dll
