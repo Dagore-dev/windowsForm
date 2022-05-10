@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\ExplicacionFiltros\bin\Debug\net6.0-windows\ExplicacionFiltros.exe
+G:\Repositorios\WindowsForms\ExplicacionFiltros\bin\Debug\net6.0-windows\ExplicacionFiltros.deps.json
+G:\Repositorios\WindowsForms\ExplicacionFiltros\bin\Debug\net6.0-windows\ExplicacionFiltros.runtimeconfig.json
+G:\Repositorios\WindowsForms\ExplicacionFiltros\bin\Debug\net6.0-windows\ExplicacionFiltros.dll
+G:\Repositorios\WindowsForms\ExplicacionFiltros\bin\Debug\net6.0-windows\ExplicacionFiltros.pdb
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.Form1.resources
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.dll
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\refint\ExplicacionFiltros.dll
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.pdb
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ExplicacionFiltros.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\ExplicacionFiltros\obj\Debug\net6.0-windows\ref\ExplicacionFiltros.dll
