@@ -1,0 +1,17 @@
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\bin\Debug\net6.0-windows\CompruebaCreditCard.exe
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\bin\Debug\net6.0-windows\CompruebaCreditCard.deps.json
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\bin\Debug\net6.0-windows\CompruebaCreditCard.runtimeconfig.json
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\bin\Debug\net6.0-windows\CompruebaCreditCard.dll
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\bin\Debug\net6.0-windows\CompruebaCreditCard.pdb
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.csproj.AssemblyReference.cache
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.CompruebaCreditCard.resources
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.csproj.GenerateResource.cache
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.AssemblyInfoInputs.cache
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.AssemblyInfo.cs
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.csproj.CoreCompileInputs.cache
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.dll
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\refint\CompruebaCreditCard.dll
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.pdb
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\CompruebaCreditCard.genruntimeconfig.cache
+G:\Repositorios\WindowsForms\Relacion3\CompruebaCreditCard\obj\Debug\net6.0-windows\ref\CompruebaCreditCard.dll
