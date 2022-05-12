@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace CompruebaCreditCard
 {
     public partial class CompruebaCreditCard : Form
@@ -8,7 +10,7 @@ namespace CompruebaCreditCard
             InitializeComponent();
             textboxes = new TextBox[]
             {
-                textBox1, textBox2, textBox3
+                textBox1, textBox2, textBox3, textBox4
             };
         }
 
@@ -72,19 +74,53 @@ namespace CompruebaCreditCard
         }
         private bool IsValidCreditCard (char c)
         {
-            int[] creditCard = new int[16];
+            string creditCardNumber = StoreCreditCard(c);
+
+            StringBuilder digitsOnly = new StringBuilder();
+
+            foreach (char n in creditCardNumber.Where(n => char.IsDigit(n)))
+            {
+                digitsOnly.Append(n);
+            }
+
+            if (digitsOnly.Length > 18 || digitsOnly.Length < 15) return false;
+
+            int sum = 0;
+            int digit = 0;
+            int addend = 0;
+            bool timesTwo = false;
+
+            for (int i = digitsOnly.Length - 1; i >= 0; i--)
+            {
+                digit = Int32.Parse(digitsOnly.ToString(i, 1));
+                if (timesTwo)
+                {
+                    addend = digit * 2;
+                    if (addend > 9)
+                        addend -= 9;
+                }
+                else
+                    addend = digit;
+
+                sum += addend;
+
+                timesTwo = !timesTwo;
+
+            }
+            return (sum % 10) == 0;
+        }
+        private string StoreCreditCard (char c)
+        {
+            StringBuilder sb = new StringBuilder();
 
             foreach (TextBox tb in textboxes)
             {
-                for (int i = 0; i < tb.Text.Length; i++)
-                {
-                    creditCard[i] = int.Parse(tb.Text[i].ToString());
-                }
+                sb.Append(tb.Text);
             }
 
-            creditCard[15] = int.Parse(c.ToString());
-            //ESTA SIN TERMINAR
-            return true;
+            sb.Append(c);
+
+            return sb.ToString();
         }
     }
 }
