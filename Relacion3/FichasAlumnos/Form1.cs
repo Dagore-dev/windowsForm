@@ -48,9 +48,17 @@ namespace FichasAlumnos
                 AddUser addUser = new AddUser(alumno);
                 DialogResult modifyUser = addUser.ShowDialog();
 
-                if (modifyUser == DialogResult.OK)
+                if (modifyUser == DialogResult.OK && addUser.isValidAlumno)
                 {
+                    alumno.Nombre = addUser.alumno.Nombre;
+                    alumno.Calificacion = addUser.alumno.Calificacion;
+                    alumno.FechaNacimiento = addUser.alumno.FechaNacimiento;
+                    alumno.Repetidor = addUser.alumno.Repetidor;
+                    alumno.Sexo = addUser.alumno.Sexo;
 
+                    RemoveUser();
+
+                    grupo.InsertaAlumnoLista(alumno);
                 }
 
                 UpdateListView();

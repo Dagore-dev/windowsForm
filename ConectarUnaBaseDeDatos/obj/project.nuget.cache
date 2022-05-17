@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hie/80X2G0cYFwLmOlmnUeuL6e1yjmj3PMYSmYzzqWKOQnb0i+cTL2dbLg3ce+ulRgdTRacBGIxop/h6HWttIg==",
+  "success": true,
+  "projectFilePath": "G:\\Repositorios\\WindowsForms\\ConectarUnaBaseDeDatos\\ConectarUnaBaseDeDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dagore\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Dagore\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
