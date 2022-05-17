@@ -69,6 +69,7 @@
             this.toolStripModify.Name = "toolStripModify";
             this.toolStripModify.Size = new System.Drawing.Size(78, 22);
             this.toolStripModify.Text = "Modificar";
+            this.toolStripModify.Click += new System.EventHandler(this.ToolStripModify_Click);
             // 
             // toolStripRemove
             // 
@@ -77,6 +78,7 @@
             this.toolStripRemove.Name = "toolStripRemove";
             this.toolStripRemove.Size = new System.Drawing.Size(70, 22);
             this.toolStripRemove.Text = "Eliminar";
+            this.toolStripRemove.Click += new System.EventHandler(this.ToolStripRemove_Click);
             // 
             // listView1
             // 

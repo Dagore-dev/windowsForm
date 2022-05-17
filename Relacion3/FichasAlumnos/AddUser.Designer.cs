@@ -231,6 +231,7 @@
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "AddUser";
             this.Text = "AddUser";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AddUser_FormClosing);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
