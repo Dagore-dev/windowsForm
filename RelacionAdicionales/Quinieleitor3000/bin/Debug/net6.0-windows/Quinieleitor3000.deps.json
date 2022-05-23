@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quinieleitor3000/1.0.0": {
+        "runtime": {
+          "Quinieleitor3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quinieleitor3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

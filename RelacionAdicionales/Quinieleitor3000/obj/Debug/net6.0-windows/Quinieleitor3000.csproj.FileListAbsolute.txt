@@ -1,0 +1,17 @@
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\bin\Debug\net6.0-windows\Quinieleitor3000.exe
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\bin\Debug\net6.0-windows\Quinieleitor3000.deps.json
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\bin\Debug\net6.0-windows\Quinieleitor3000.runtimeconfig.json
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\bin\Debug\net6.0-windows\Quinieleitor3000.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\bin\Debug\net6.0-windows\Quinieleitor3000.pdb
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.csproj.AssemblyReference.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.Quinieleitor.resources
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.csproj.GenerateResource.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.AssemblyInfoInputs.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.AssemblyInfo.cs
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.csproj.CoreCompileInputs.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\refint\Quinieleitor3000.dll
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.pdb
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\Quinieleitor3000.genruntimeconfig.cache
+D:\Repositorios\windowsForm\RelacionAdicionales\Quinieleitor3000\obj\Debug\net6.0-windows\ref\Quinieleitor3000.dll
