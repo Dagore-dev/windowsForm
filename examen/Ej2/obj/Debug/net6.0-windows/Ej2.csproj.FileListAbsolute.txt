@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\bin\Debug\net6.0-windows\Ej2.exe
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\bin\Debug\net6.0-windows\Ej2.deps.json
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\bin\Debug\net6.0-windows\Ej2.runtimeconfig.json
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\bin\Debug\net6.0-windows\Ej2.dll
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\bin\Debug\net6.0-windows\Ej2.pdb
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.PasswdChecker.resources
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.AssemblyInfo.cs
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.dll
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\refint\Ej2.dll
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.pdb
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\Ej2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\david_gomez_redondo\Ej2\obj\Debug\net6.0-windows\ref\Ej2.dll
